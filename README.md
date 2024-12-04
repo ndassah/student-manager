@@ -16,3 +16,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+##explication du programme
+il s'agit d'un programme de gestion des notes etudiant dans un etablissement.
+dans notre programme on pourra ajoute des etudiant, des matiere, et voir les moyenne des diffrents etudiant
